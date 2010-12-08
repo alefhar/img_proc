@@ -16,3 +16,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp
+
+HEADERS += \
+    type.h \
+    imagewriter.h \
+    imagereader.h \
+    image.h \
+    filters.h \
+    color.h
